@@ -1,0 +1,6 @@
+[submodule "lib/SPIbus"]
+	path = lib/SPIbus
+	url = https://github.com/VirgiliaBeatrice/esp32-SPIbus.git
+[submodule "lib/MPUdriver"]
+	path = lib/MPUdriver
+	url = https://github.com/natanaeljr/esp32-MPU-driver.git

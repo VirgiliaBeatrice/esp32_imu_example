@@ -3,4 +3,4 @@
 	url = https://github.com/VirgiliaBeatrice/esp32-SPIbus.git
 [submodule "components/MPUdriver"]
 	path = components/MPUdriver
-	url = https://github.com/natanaeljr/esp32-MPU-driver.git
+	url = https://github.com/VirgiliaBeatrice/esp32-MPU-driver.git

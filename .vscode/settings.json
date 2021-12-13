@@ -5,7 +5,7 @@
     "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"C:\\\\Users\\\\Haoyan.Li\\\\.espressif\\\\tools\\\\openocd-esp32\\\\v0.10.0-esp32-20210401/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
     "idf.espIdfPathWin": "C:\\Users\\Haoyan.Li\\esp\\esp-idf",
     "idf.openOcdConfigs": "boards/esp32-wrover-kit-3.3v.cfg",
-    "idf.portWin": "COM1",
+    "idf.portWin": "COM3",
     "idf.pythonBinPathWin": "C:\\Users\\Haoyan.Li\\.espressif\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "C:\\Users\\Haoyan.Li\\.espressif",
     "cmake.configureOnOpen": false
